@@ -1,8 +1,8 @@
 {
-  "version": 2,
+  "version": 3,
   "info": {
     "name": "风车车",
-    "url": "https://gitee.com/sindong/windmill/raw/server/subscribe/fcc.json",
+    "url": "https://raw.githubusercontent.com/zdfdonny/windmill/master/subscribe/fcc.json",
     "code": "windmill"
   }
 }
