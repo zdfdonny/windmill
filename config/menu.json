@@ -1,0 +1,38 @@
+[
+  {
+    "title": "观看历史",
+    "icon": "https://gitee.com/sindong/windmill/raw/server/pic/ic_history.png",
+    "action": {
+      "type": "class",
+      "content": "com.xdkj.windmill.ui.activity.HistoryActivity",
+      "ext": {}
+    }
+  },
+  {
+    "title": "下载中心",
+    "icon": "https://gitee.com/sindong/windmill/raw/server/pic/ic_download.png",
+    "action": {
+      "type": "class",
+      "content": "com.xdkj.windmill.ui.activity.DownloadActivity",
+      "ext": {}
+    }
+  },
+  {
+    "title": "VIP解析",
+    "icon": "https://gitee.com/sindong/windmill/raw/server/pic/ic_vip.png",
+    "action": {
+      "type": "class",
+      "content": "com.xdkj.windmill.ui.activity.ParseActivity",
+      "ext": {}
+    }
+  },
+  {
+    "title": "设置",
+    "icon": "https://gitee.com/sindong/windmill/raw/server/pic/ic_setting.png",
+    "action": {
+      "type": "class",
+      "content": "com.xdkj.windmill.ui.activity.SettingActivity",
+      "ext": {}
+    }
+  }
+]

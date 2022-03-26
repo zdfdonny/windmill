@@ -1,0 +1,41 @@
+{
+  "parseApi": "https://okjx.cc/?url=",
+  "parseList": [
+    {
+      "website": "腾讯视频",
+      "icon": "https://gitee.com/sindong/windmill/raw/server/pic/tencentlogo.png",
+      "url": "https://v.qq.com",
+      "parseApi": ""
+    },
+    {
+      "website": "爱奇艺",
+      "icon": "https://gitee.com/sindong/windmill/raw/server/pic/iqiyilogo.png",
+      "url": "https://www.iqiyi.com",
+      "parseApi": ""
+    },
+    {
+      "website": "优酷",
+      "icon": "https://gitee.com/sindong/windmill/raw/server/pic/youkulogo.png",
+      "url": "https://www.youku.com",
+      "parseApi": ""
+    },
+    {
+      "website": "芒果TV",
+      "icon": "https://gitee.com/sindong/windmill/raw/server/pic/mangotvlogo.png",
+      "url": "https://www.mgtv.com",
+      "parseApi": ""
+    },
+    {
+      "website": "乐视网",
+      "icon": "https://gitee.com/sindong/windmill/raw/server/pic/letvlogo.png",
+      "url": "https://www.le.com",
+      "parseApi": ""
+    },
+    {
+      "website": "搜狐",
+      "icon": "https://gitee.com/sindong/windmill/raw/server/pic/sohulogo.png",
+      "url": "https://tv.sohu.com",
+      "parseApi": ""
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "main_popup": {
+    "type": "popup",
+    "source": "mb",
+    "state": true,
+    "probability": 0,
+    "params": {
+      "placementId": "345273",
+      "unitId": "1574440"
+    }
+  },
+  "main_banner": {
+    "type": "banner",
+    "source": "wd",
+    "state": false,
+    "probability": 0,
+    "params": []
+  },
+  "detail_player": {
+    "type": "player",
+    "source": "mb",
+    "state": false,
+    "preload": true,
+    "duration": 20,
+    "jumptime": 5,
+    "opportunity": "head",
+    "params": {
+      "placementId": "346820",
+      "unitId": "1577360"
+    }
+  },
+  "detail_banner": {
+    "type": "banner",
+    "source": "mb",
+    "state": true,
+    "params": [
+      {
+        "placementId": "348392",
+        "unitId": "1580490"
+      }
+    ]
+  },
+  "history_banner": {
+    "type": "banner",
+    "source": "wd",
+    "state": false,
+    "params": []
+  }
+}

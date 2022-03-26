@@ -1,0 +1,89 @@
+{
+  "appVersion": "1.5.0",
+  "isForce": true,
+  "notice": "1.新增自定义规则和订阅功能\n2.优化解析逻辑，解析速度更快\n3.了解更多信息关注公众号\"风车基地\"",
+  "url": "https://gitee.com/sindong/windmill/attach_files/952368/download/windmill_1.5.0_official.apk",
+  "shareUrl": "https://wwi.lanzouo.com/iN6MEz5op2b",
+  "shareContent": "发现一款可免费看全网VIP视频的追剧神器，快下载下来看看吧！",
+  "showAd": true,
+  "ruleVersion": 5,
+  "subscribeVersion": 2,
+  "contact": "531451634@qq.com",
+  "communication": "jlRZjsk4CqJpQIUGnv1lJXZszykylYLS",
+  "showBrowserDownload": true,
+  "showCannotUpdate": false,
+  "history": [
+    {
+      "appVersion": "1.0.0",
+      "isForce": false
+    },
+    {
+      "appVersion": "1.0.1",
+      "isForce": true
+    },
+    {
+      "appVersion": "1.1.0",
+      "isForce": true
+    },
+    {
+      "appVersion": "1.2.0",
+      "isForce": true
+    },
+    {
+      "appVersion": "1.3.0",
+      "isForce": true
+    },
+    {
+      "appVersion": "1.4.0",
+      "isForce": true
+    }
+  ],
+  "advert": {
+    "splash": {
+      "state": false,
+      "placementId": "343961",
+      "unitId": "1571724"
+    },
+    "main_popup": {
+      "state": true,
+      "placementId": "345273",
+      "unitId": "1574440",
+	  "ext": "5"
+    },
+    "detail_banner": {
+      "state": false,
+      "placementId": "345271",
+      "unitId": "1574444"
+    },
+    "history_banner": {
+      "state": false,
+      "placementId": "345270",
+      "unitId": "1574443"
+    },
+    "search_item": {
+      "state": true,
+      "placementId": "345893",
+      "unitId": "1583828"
+    },
+    "download_reward": {
+      "state": true,
+      "placementId": "354818",
+      "unitId": "1593359"
+    },
+    "player_screen": {
+      "state": false,
+      "placementId": "354820",
+      "unitId": "1593361"
+    },
+    "web_screen": {
+      "state": false,
+      "placementId": "356149",
+      "unitId": "1595994"
+    },
+    "main_buoy": {
+      "state": false,
+      "placementId": "354878",
+      "unitId": "1593432"
+    }
+  }
+}
